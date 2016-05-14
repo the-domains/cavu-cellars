@@ -1,0 +1,28 @@
+name: CAVU Cellars
+favicon: null
+layout_spectrum: 0.24194343155249953
+typography_spectrum: 0.3888837802223861
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.39697352331131697
+  lightness: 0.5239748700987548
+  saturation: 0.31639882922172546
+  rhythmicContrast: 0.673722198465839
+purpose: []
