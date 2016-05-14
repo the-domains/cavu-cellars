@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[CAVU Cellars]]></title>
         <description><![CDATA[CAVU Cellars]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cavu-cellars/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 14 May 2016 18:33:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 14 May 2016 19:00:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cavu-cellars/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/68e07d3b-e59b-4afe-a26d-148936b8cd93.jpg">]]></description>
-            <link>undefined24214d39-e280-43c9-8043-b5b131e57bdb/index.html</link>
+            <title><![CDATA[Box Logo]]></title>
+            <description><![CDATA[<article><h1>Box Logo</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/68e07d3b-e59b-4afe-a26d-148936b8cd93.jpg"></article>]]></description>
+            <link>https://thegrid.ai/cavu-cellars/24214d39-e280-43c9-8043-b5b131e57bdb/index.html</link>
             <guid isPermaLink="false">24214d39-e280-43c9-8043-b5b131e57bdb</guid>
-            <pubDate>Sat, 14 May 2016 18:32:50 GMT</pubDate>
+            <pubDate>Sat, 14 May 2016 19:00:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
